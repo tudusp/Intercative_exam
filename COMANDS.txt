@@ -1,0 +1,9 @@
+You need to start your Python backend (FastAPI or Streamlit+FastAPI) so it listens on port 8000.
+
+uvicorn faculty_duty_app:app --reload --host 0.0.0.0 --port 8000
+
+
+
+re load 
+
+ uvicorn faculty_duty_app:app --reload
